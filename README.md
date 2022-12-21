@@ -1,4 +1,9 @@
 # Embedded-System-Jobsheet-1
+Ayudya Sawitri
+
+TE-3B/4.31.20.1.05
+
+
 GPIO
 
 Buka program example blink, kemudian modifikasi dan buat agar LED dapat melakukan blink dengan interval 100ms, 1 detik, 2 detik dan 3 detik sekali. Setelah itu, buatlah program agar LED dapat blink 1 detik sekali menggunakan timer milis(). Dokumentasikan hasilnya.
